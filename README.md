@@ -47,8 +47,8 @@
 ### ✍ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+###  The problem is old, but if your method is new, Innovation is simply a better point of view.
+
 
 ---
 
