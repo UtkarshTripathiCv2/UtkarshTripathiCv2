@@ -10,9 +10,14 @@
 ---
 
 ## 🔌 Hardware & IoT
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-%23E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white)
+![ESP8266](https://img.shields.io/badge/ESP8266-%23E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![PIC16F877A](https://img.shields.io/badge/PIC16F877A-ED1C24?style=for-the-badge&logo=microchip&logoColor=white)
+![ATmega328P](https://img.shields.io/badge/ATmega328P-00599C?style=for-the-badge&logo=arduino&logoColor=white)
+![ATmega16](https://img.shields.io/badge/ATmega16-ED1C24?style=for-the-badge&logo=microchip&logoColor=white)
 ![Sensors](https://img.shields.io/badge/Sensors-%23F4D03F.svg?style=for-the-badge&logo=sparkfun&logoColor=black)
 
 ---
